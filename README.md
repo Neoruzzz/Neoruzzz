@@ -19,10 +19,10 @@
 ---
 
 <div align="center"><h2>🌐 Languages & Tools</h2></div>
-
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=javascript&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </div>
 
 ---
