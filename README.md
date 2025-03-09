@@ -1,4 +1,7 @@
 <div align="center"><h1>Neoruzzz</h1></div>
+<div id="header" align="center">
+  <img src="https://imgur.com/a/Q5O1IUr" width="200"/>
+</div>
 <div id="badges" align="center">
   <a href="https://t.me/sv1zx">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
