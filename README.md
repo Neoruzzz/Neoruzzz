@@ -19,7 +19,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=javascript&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=javascript&logoColor=white" alt="Go"/>
 </div>
 
 ---
