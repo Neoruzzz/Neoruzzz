@@ -14,7 +14,7 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [**PastaKiller**](https://github.com/IllDieAnyway/telegram-bot-client) | Paste killer on pastebin | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
+| [**PastaKiller**](https://github.com/Neoruzzz/PastaKiller) | Paste killer on pastebin | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 
 ---
 
