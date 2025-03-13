@@ -15,6 +15,7 @@
 | Repository | Description | Language |
 |------------|-------------|----------|
 | [**PastaKiller**](https://github.com/Neoruzzz/PastaKiller) | Paste killer on pastebin | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
+| [**NeoParser**](https://github.com/Neoruzzz/NeoParser) | OLX.KZ Offers parser | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 
 ---
 
